@@ -1,5 +1,5 @@
-<h4> Hallo, me chamo Leandro Costa e sou um iniciado em desenvolvimento no mundo da programação </h4>
-<h4> Meu objetivo? Um Dev Full-Satck </h4>
+<h4> Hallo,sou um iniciado em desenvolvimento com objetivo de me tornar um Dev Full-Satck com foco em Back-End </h4>
+
 <div align="center">
   <a href="https://github.com/LeoCostta">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeoCostta&show_icons=true&theme=dracula"/>
