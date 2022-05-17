@@ -1,9 +1,9 @@
-### Hallo, me chamo Leandro Costa e sou um iniciado em desenvolvimento no mundo da programação ###
-<h3> Meu objetivo? Um Dev Full-Satck </h3>
+<h4> Hallo, me chamo Leandro Costa e sou um iniciado em desenvolvimento no mundo da programação </h4>
+<h4> Meu objetivo? Um Dev Full-Satck </h4>
 <div align="center">
   <a href="https://github.com/LeoCostta">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeoCostta&show_icons=true&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoCostta&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeoCostta&show_icons=true&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoCostta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
