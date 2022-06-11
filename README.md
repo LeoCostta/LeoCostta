@@ -1,4 +1,4 @@
-<h4> Hallo,sou um iniciado em desenvolvimento com objetivo de me tornar um Dev Full-Stack com foco em Back-End </h4>
+<h4> Hallo, sou um iniciado em desenvolvimento com objetivo de me tornar um Dev Full-Stack com foco em Back-End </h4>
 
 <div align="center">
   <a href="https://github.com/LeoCostta">
