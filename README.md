@@ -12,7 +12,7 @@ Olá, sou estudante de Engenharia de Software e apaixonado por tecnologia.<br>Me
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeoCostta&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoCostta&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
